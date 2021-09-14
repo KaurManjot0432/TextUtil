@@ -9,7 +9,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 
 
@@ -43,15 +42,15 @@ function App() {
   return (
     <>
       <Router>
-      <Navbar title="TextUtil" mode={mode} toggleState={toggleState} />
+      <Navbar title="TextUtils" mode={mode} toggleState={toggleState} />
       <Alert alert={alert} />
       <Switch>
-        <Route path="/about">
-          <About />
+        <Route exact path="/about">
+          <About mode={mode} />
         </Route>
-        <Route path="/">
+        <Route exact path="/">
           <div class="container my-3">
-            <Textform heading="Enter your text" mode={mode} showAlert={showAlert} />
+            <Textform heading="Try TextUtils - Word Counter, Character Counter, Remove extra spaces" mode={mode} showAlert={showAlert} />
           </div>
         </Route>
       </Switch>
