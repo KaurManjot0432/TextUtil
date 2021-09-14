@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TextUtil-React/static/css/main.a4a20492.chunk.css",
+    "main.js": "/TextUtil-React/static/js/main.1671c43f.chunk.js",
+    "main.js.map": "/TextUtil-React/static/js/main.1671c43f.chunk.js.map",
+    "runtime-main.js": "/TextUtil-React/static/js/runtime-main.92337c3e.js",
+    "runtime-main.js.map": "/TextUtil-React/static/js/runtime-main.92337c3e.js.map",
+    "static/js/2.c863b31e.chunk.js": "/TextUtil-React/static/js/2.c863b31e.chunk.js",
+    "static/js/2.c863b31e.chunk.js.map": "/TextUtil-React/static/js/2.c863b31e.chunk.js.map",
+    "static/js/3.122aa043.chunk.js": "/TextUtil-React/static/js/3.122aa043.chunk.js",
+    "static/js/3.122aa043.chunk.js.map": "/TextUtil-React/static/js/3.122aa043.chunk.js.map",
+    "index.html": "/TextUtil-React/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/TextUtil-React/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.c863b31e.chunk.js.LICENSE.txt": "/TextUtil-React/static/js/2.c863b31e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TextUtil-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92337c3e.js",
+    "static/js/2.c863b31e.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.1671c43f.chunk.js"
+  ]
+}
