@@ -9,11 +9,11 @@ function App() {
    <>
 <Navbar title="TextUtil" />
 {/* <Navbar/> */}
-{/* <div class = "container my-3"> */}
+<div class = "container my-3">
 
-{/* <Textform heading="Enter your text"/> */}
-{/* </div> */}
-<About/>
+<Textform heading="Enter your text"/>
+</div>
+{/* <About/> */}
    </>
   );
 }
